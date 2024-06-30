@@ -6,6 +6,7 @@
 <h2>Prerequisites</h2>
 <ul>
     <li>Kubernetes knowledge & minikube installed on local</li>
+    <li> Kubernetes Knowledge: Understanding of Kubernetes concepts and commands.</li>
     <li>Docker knowledge</li>
     <li>Clickhouse → Read about it a bit. It's an open source data warehouse which can be operated using SQL queries</li>
   <li>Superset → It's a BI (business intelligence tool to create report & charts on data from data sources like clickhouse, postgres, etc... )
